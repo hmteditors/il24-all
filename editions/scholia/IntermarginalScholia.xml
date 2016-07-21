@@ -154,7 +154,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p><persName n="urn:cite:hmt:pers.pers16"><choice>
                                         <abbr>Ἀρισταρχ</abbr>
                                         <expan>Ἀριστάρχος</expan>
-                                    </choice></persName> <q>ἢ ὀνόσασθ’</q></p>
+                                    </choice></persName>
+                                <q>ἢ ὀνόσασθ’</q></p>
                         </div>
                     </div>
                     <div n="10" type="scholion">
@@ -166,6 +167,17 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>βρἀχὺ διασταλτέον μετα τὸ <q>ϊδεῖν</q> προς τὸ σαφέστερον⁑</p>
+                        </div>
+                    </div>
+                    <div n="11" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.264</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὥς τε <q>διακρινθειτε</q> ⁑</p>
                         </div>
                     </div>
                     <!--<div n="1" type="scholion">
