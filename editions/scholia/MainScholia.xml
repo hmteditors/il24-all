@@ -122,7 +122,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         <expan>Ἀρίσταρχος</expan>
                                     </choice></persName>
                                 <q>κεχάνδη</q> δια τοῦ <rs type="waw">η</rs> ἀντι τοῦ <q>κεχάνδε</q>
-                                ἡ δὲ Μασσαλιωτικῇ πολλὰ <q>κεκεύθει</q>⁑</p>
+                                ἡ δὲ Μασσαλιωτικῇ πολλὰ <q>κεκεύθει</q> ⁑</p>
                         </div>
                     </div>
                     <div n="7" type="scholion">
@@ -186,7 +186,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <div type="comment">
                             <p>ὅτι ἀντι τοῦ <q>προσδέξεται ὡς ϊκέτην</q>
                                 <q>μή μιν ἐγὼ μὲν ΐκωμαι ἰων οὺς ἔτι μ’ <persName
-                                        n="urn:cite:hmt:pers.pers1">ἀχιλλευσ</persName></q></p>
+                                        n="urn:cite:hmt:pers.pers1">ἀχιλλευσ ⁑</persName></q></p>
                         </div>
                     </div>
                     <div n="11" type="scholion">
@@ -202,8 +202,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         <expan>Ἀχιωσλλέως</expan>
                                     </choice></persName> ἐν τῇ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012:tlg001:20</ref>
-                                    <num value="20">Υ</num>
-                                </cit> οὐκέτι</p>
+                                    <number> value="20">Υ</number>
+                                </cit> οὐκέτι ⁑</p>
                         </div>
                     </div>
                     <div n="12" type="scholion">
@@ -233,32 +233,100 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 μᾶλλον τοῦ νοητοῦ· μελλήσει δὲ λείπειν τὸ <q>ἄν</q> ἐν τῇ συντάξει <choice>
                                     <abbr>επιζητοῦντ</abbr>
                                     <expan>επιζητοῦντος</expan>
-                                </choice> τοῦ <q>γένοιτο</q>· εὐκτικοῦ τὸ τοιοῦτο παραφυλακτέον δὲ ὅτι καὶ <choice>
+                                </choice> τοῦ <q>γένοιτο</q>· εὐκτικοῦ τὸ τοιοῦτο παραφυλακτέον δὲ
+                                ὅτι καὶ <choice>
                                     <abbr>συλλα</abbr>
                                     <expan>συλλαβὴ</expan>
-                                </choice> λείπει ἡ <q>τι</q> τοῦ ἐντελους ὄντος <q>ἀντίτητα</q>.</p>
+                                </choice> λείπει ἡ <q>τι</q> τοῦ ἐντελους ὄντος <q>ἀντίτητα
+                                ⁑</q>.</p>
                         </div>
                     </div>
-                    <div n="??" type="scholion">
+                    <div n="13" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἐπεὶ οὒ ὲ</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.???</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>οὕτως <q>ἐπεὶ οὔ ἑ</q> ἐπεὶ ουκ αυτόν αἱ δε κοιναὶ <q>ἐπεὶ ού τι</q>
+                                ⁑</p>
                         </div>
                     </div>
-                    <div n="??" type="scholion">
+                    <div n="14" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.???</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.214</p>
                         </div>
                         <div type="comment">
                             <p/>
+                        </div>
+                    </div>
+                    <div n="15" type="scholion">
+                        <div type="lemma">
+                            <p>ἄλλα προ <rs type="ethnic" n="urn:cite:hmt:place.place6"
+                                >τρώων</rs>·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.215</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὸς τοὺς γράφοντας <q>ἔσπετε νῦν μοι Μοῦσαι Ὀλυμπιάδες
+                                    βαθύκολποι</q> ὅτι ἐπι βαρβαρων τὸ ἐπίθετον τίθησιν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="16" type="scholion">
+                        <div type="lemma">
+                            <p>ἢ οἳ μάντιές εἰσὶ θυοσκόοι:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.221</p>
+                        </div>
+                        <div type="comment">
+                            <p>καὶ <choice>
+                                    <abbr>ἐνταῦθ</abbr>
+                                    <expan>ἐνταῦθα</expan>
+                                </choice> ἀξιοῦσι τινὲς διαστέλλειν μετα τὸ <q>εἰσὶ</q> ὡς καὶ ἐν τη <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012:tlf001:1</ref>
+                                    <num value="1">Α</num>
+                                </cit> ῥαψῳδίᾳ τὸ γένος φησὶ προειπὼν ἐπιφέρει τὸ εῖδος· <q>ἀλλ' άγε
+                                    δή τινα μάντιν ἐρείομεν</q> δοκεῖ δέ μοι ἐνθάδε μὴ ἐπείγειν ἐπεὶ
+                                ἐνδεχεται τὸ δευτερον τοῦ πρώτου ἐπίθετον εῖναι, μάντεις θῦται καὶ
+                                ἄλλως τῶν ἱερέων ἕτεροι νοοῦνται θυοσκόοι μὲν οἱ δια τῶν επιθυομένων
+                                μαντευόμενοι οἱ <choice>
+                                    <abbr>ἐμπυροσκόπ</abbr>
+                                    <expan>ἐμπυροσκόποι</expan>
+                                </choice> καλοῦσι δὲ αὐτοὺς· λιβανομάντης ἱερεῖς δὲ οἱ δια τῶν
+                                σπλαγχνῶν μαντευόμενοι· τὰ μὲν γαρ θυμιάματα θύη καλεῖται· τὰ δὲ
+                                σπλάγχνα ἱερά κοινὸν δέ ἐστι τὸ μάντις ⁑</p>
+                        </div>
+                    </div>
+                    <div n="17" type="scholion">
+                        <div type="lemma">
+                            <p>ψεῦδός κεν φαῖμεν:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.222</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἐνταῦθα ἁρμὸζόντως//ἁρμόζόντως λέγεται ὁ
+                                στίχος ὑπο δὲ <persName n="urn:cite:hmt:pers.pers117">Νέστορος</persName> ἐν τῇ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012:tlf001:2</ref>
+                                    <num value="2">Β</num>
+                                </cit> οὐκέτι ⁑</p>
+                        </div>
+                    </div>
+                    <div n="18" type="scholion">
+                        <div type="lemma">
+                            <p>νῦν δ' αὐτὸς γὰρ:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.223</p>
+                        </div>
+                        <div type="comment">
+                            <p>βραχὺ διασταλτ//έον μετα τὸν δέ τὸ γαρ ἑξῆς νῦν δέ //δὲ εἰμι ⁑</p>
                         </div>
                     </div>
                     <div n="??" type="scholion">
