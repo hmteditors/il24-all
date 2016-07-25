@@ -143,6 +143,28 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                         </choice></persName></q></p>
                         </div>
                     </div>
+                    <div n="11" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.764</p>
+                        </div>
+                        <div type="comment">
+                            <p><q>ὤφελλ' απολέσθαι</q></p>
+                        </div>
+                    </div>
+                    <div n="12" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.776</p>
+                        </div>
+                        <div type="comment">
+                            <p><q>ἔστενε</q></p>
+                        </div>
+                    </div>
                     <!-- <div n="_" type="scholion">
                         <div type="lemma">
                             <p/>
