@@ -126,7 +126,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.578</p>
                         </div>
                         <div type="comment">
-                            <p><q>ἐϋσώτρου δ’</q></p>
+                            <p><del><q>ἐϋσώτρου δ’</q></del></p>
                         </div>
                     </div>
                     <!-- <div n="_" type="scholion">
