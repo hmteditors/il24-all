@@ -868,18 +868,75 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p> ὅτι δύναται καὶ κατα σύνθεσιν ἐυκλήϊς εὐεπίκλειστος χωρὶς δὲ τῷ
-                                <q>ἀραρυῖα</q>. δύναται δὲ καὶ κατα συναλιφὴν εὖ ταῖς κλισὶν <q>ἀραρυῖα</q> ⁑</p>
+                                    <q>ἀραρυῖα</q>. δύναται δὲ καὶ κατα συναλιφὴν εὖ ταῖς κλισὶν
+                                    <q>ἀραρυῖα</q> ⁑</p>
                         </div>
                     </div>
                     <div n="47" type="scholion">
                         <div type="lemma">
+                            <p>εὐκλήϊς ἄραῥύια</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.318</p>
+                        </div>
+                        <div type="comment">
+                            <p>
+                                <persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName>
+                                <q>ἐϋκλήϊς</q> ὡς <q>ἐυκνῆμις</q> σύνθετον ποιῶν τὴν λέξιν οὕτως καὶ
+                                ὁ <persName n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτης</persName>
+                                εἰσὶ δὲ οἳ διεῖλον <q>εὖ κληϊσ' ἄραρυῖα</q> οἷς <choice>
+                                    <abbr>συγκαττίθεται</abbr>
+                                    <expan>συγκατατίθεται</expan>
+                                </choice> καὶ <persName n="urn:cite:hmt:pers.pers501"
+                                    >Τρύφων</persName> οὐκ εῦ ἄμεινον γὰρ ἐπιθετικῶς ἀκούειν καὶ μη
+                                πάθος ἐκδέχεσθαι πληθυντικῆς δοτικῆς, λέγω δὲ τὸ τῆς ἐκθλίψεως. ὃ δε
+                                φημὶ τοιοῦτόν ἐστιν ὡς ὅτι ἐκθλίβεται μὲν τὸ <rs type="waw">ϊ</rs>
+                                τῆς δοτικῆς παρα τῷ ποιητῇ καὶ ἑνικῆς ὑπαρχούσης καὶ πληθυντικῆς· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:5.62</ref>
+                                    <q>κερκίδ' ὕφαινε</q>
+                                </cit>. <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:13.115</ref>
+                                    <q>χέρσ' ἐρεται</q>
+                                </cit>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.71</ref>
+                                    <q>καὶ νῆεσ ἡγήσατ' <rs type="ethnic"
+                                            n="urn:cite:hmt:place.place96">Ἀχαιῶν</rs></q>
+                                </cit> οὔ γε μὴν τὸ ἀπο τῶν εἰς <rs type="waw">ης</rs> ἐκτεταμένον
+                                θηλυκῶν. εἰ δ' ἡ προκειμένη λέξις κρίσεως δεῖται κατα τὴν ἀνάγνωσιν
+                                δηλον ὅτι συνθέτως <choice>
+                                    <abbr>ἀναγνωσόμεθ</abbr>
+                                    <expan>ἀναγνωσόμεθα</expan>
+                                </choice> ὅπως μὴ πληθυντικοῦ δῶμεν τὴν χρῆσιν παρὰ τὴν συνήθειαν
+                                τοῦ ποιητοῦ καὶ ἔκθλιψιν σημειώδη ⁑</p>
+                        </div>
+                    </div>
+                    <div n="48" type="scholion">
+                        <div type="lemma">
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.???</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.318</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>εἰ <choice>
+                                    <sic>δὲ</sic>
+                                    <corr>δὴ</corr>
+                                </choice> σύνθετόν ἐστι τὸ <q>ἐϋκλήϊς</q> καὶ παροξύνειν δεῖ αὐτὼ· μακρὸν
+                                γὰρ τὸ <rs type="waw">ϊ</rs> καὶ ἐν τῇ συνθέσει ὡς ἐν τῷ <rs
+                                    type="waw">κ</rs> τῆς καθόλου φησὶν ὁ αὐτός. ἀπο γὰρ τοῦ χρόνου
+                                τὸν τόνον ἐστήσαμεν καὶ εν τῷ τρίτῳ δε τῶν Ὀνοματικῶν <choice>
+                                    <abbr>πε</abbr>
+                                    <expan>περὶ</expan>
+                                </choice> τῆς ἐκτάσεως αὐτῶν ταῦτα <choice>
+                                    <sic>φησὶν</sic>
+                                    <corr>φησίν</corr>
+                                </choice>· <q>ἄλλως τε· εἰ ἐπιζητοῦσιν ἐκτεταμένον τὸ <rs type="waw"
+                                    >ϊ</rs> ἔχουσιν ἐν τῷ <q>ἐϋκνήμις</q> μελαμψήφις. καὶ εἰ τοῦτο</q>
+                                φησὶ <q>δῆλον ὅτι παροξύνεται</q> ⁑</p>
                         </div>
                     </div>
                     <div n="??" type="scholion">
