@@ -939,6 +939,28 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 φησὶ <q>δῆλον ὅτι παροξύνεται</q> ⁑</p>
                         </div>
                     </div>
+                        <div n="49" type="scholion">
+                            <div type="lemma">
+                                <p>έσαν πτερά, </p>
+                            </div>
+                            <div type="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.319</p>
+                            </div>
+                            <div type="comment">
+                                <p>καταχρηστικῶς <q>πτερὰ</q> ἃ πτέρυγες· κυρίως δὲ εἰσὶ πτερὰ τὰ πτίλα ⁑ </p>
+                            </div>
+                        </div>
+                    <div n="50" type="scholion">
+                        <div type="lemma">
+                            <p>οἰ δ' ἐπεὶ οὖν πόλεος:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.329</p>
+                        </div>
+                        <div type="comment">
+                            <p>αἱ ὑποστιγμαὶ <q>κατέβαν</q>, <q>άφίκοντο</q>· ἡ δὲ ἀνταπόδοσις πρὸς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:24.330</ref><q>οἱ μὲν ὰρ άψορροι</q></cit> ⁑ </p>
+                        </div>
+                    </div>
                     <div n="??" type="scholion">
                         <div type="lemma">
                             <p>ὄν τ' ἀργυρότοξος <persName n="urn:cite:hmt:pers.pers40"><choice>
