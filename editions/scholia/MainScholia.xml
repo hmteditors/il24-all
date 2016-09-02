@@ -961,6 +961,61 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>αἱ ὑποστιγμαὶ <q>κατέβαν</q>, <q>άφίκοντο</q>· ἡ δὲ ἀνταπόδοσις πρὸς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:24.330</ref><q>οἱ μὲν ὰρ άψορροι</q></cit> ⁑ </p>
                         </div>
                     </div>
+                    <div n="51" type="scholion">
+                        <div type="lemma">
+                            <p>‡ παῖδες καὶ γαμβροὶ·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.331</p>
+                        </div>
+                        <div type="comment">
+                            <p>προς τὴν συναλιφὴν ὅτι ἐν δύο στίχοις, τὸ γὰρ πλῆρες ἐστι <q>Ζῆνα ἐς πεδίον φανέντε</q>  ⁑</p>
+                        </div>
+                    </div>
+                    <div n="52" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.???</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="53" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.???</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="54" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.???</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="55" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.???</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
                     <div n="??" type="scholion">
                         <div type="lemma">
                             <p>ὄν τ' ἀργυρότοξος <persName n="urn:cite:hmt:pers.pers40"><choice>
