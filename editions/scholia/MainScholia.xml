@@ -1050,8 +1050,59 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:6.22<persName
                                             n="urn:cite:hmt:pers.pers707"
                                         >Ἀβαρβαραία</persName></ref>
-                                </cit> <q>ἐπιγρᾰβδην</q>· οὕτως οὖν ἐχέτω καὶ ἡ ῥάβδος δι’ ὁ τὸ
-                                ἀβάλε καὶ κατα τοῦτο ἐσημειοῦτο ⁑</p>
+                                </cit>
+                                <q>ἐπιγρᾰβδην</q>· οὕτως οὖν ἐχέτω καὶ ἡ ῥάβδος δι’ ὁ τὸ ἀβάλε καὶ
+                                κατα τοῦτο ἐσημειοῦτο ⁑</p>
+                        </div>
+                    </div>
+                    <div n="56" type="scholion">
+                        <div type="lemma">
+                            <p>πρῶτον ὑπηνητῃ:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.348</p>
+                        </div>
+                        <div type="comment">
+                            <p>μεθόριον ἡλικίας ἀνδρὸς καὶ παιδὸς ἁβρότερον μὲν ἡ κατ ἄνδρα
+                                γενναιότερον δὲ ἡ <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>παιδ</abbr>
+                                    <expan>παιδα</expan>
+                                </choice> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="57" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.348</p>
+                        </div>
+                        <div type="comment">
+                            <p>περι τοὺς τοιούτους ἦν καὶ ὁ Σωκρατικὸς ἔρως. καὶ μύσταξ μὲν αἱ επι
+                                τοῦ ἄνω χείλους τρίχες· τὸ δε κάτω πάππος τὸ δὲ ἐξ αμφοῖν ὑπήνη ὡς
+                                τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0019.002:1286"</ref>
+                                    <q>καὶ μολύνων τὴν ὑπήνην</q>
+                                </cit> οἱ δὲ κοινῶς εἶπον τὸ γένειον πρώτον ὑπηνήτῃ ἀρχομένῳ
+                                γενειαζειν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="58" type="scholion">
+                        <div type="lemma">
+                            <p>αισυμνητῆρι ἐοικὼς//ἐοικῶς: </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.347</p>
+                        </div>
+                        <div type="comment">
+                            <p> οὕτως αἰσυμνητῆρι βασιλεῖ τὴν μορφὴν ἐοικώς καὶ ἀλλαχοῦ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:13.223</ref>
+                                    <q>παναπάλῳ οἷοί τε ἀνάκτων παῖδες ἔασιν</q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
                     <div n="??" type="scholion">
