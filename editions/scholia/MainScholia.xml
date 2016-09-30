@@ -1093,16 +1093,125 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="58" type="scholion">
                         <div type="lemma">
-                            <p>αισυμνητῆρι ἐοικὼς//ἐοικῶς: </p>
+                            <p>αισυμνητῆρι <choice>
+                                    <corr>ἐοικὼς</corr>
+                                    <sic>ἐοικῶς</sic>
+                                </choice>: </p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.347</p>
                         </div>
                         <div type="comment">
-                            <p> οὕτως αἰσυμνητῆρι βασιλεῖ τὴν μορφὴν ἐοικώς καὶ ἀλλαχοῦ <cit>
+                            <p> οὕτως <q>αἰσυμνητῆρι</q> βασιλεῖ τὴν μορφὴν ἐοικώς καὶ ἀλλαχοῦ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:13.223</ref>
                                     <q>παναπάλῳ οἷοί τε ἀνάκτων παῖδες ἔασιν</q>
                                 </cit> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="59" type="scholion">
+                        <div type="lemma">
+                            <p>τόσσα δ’ ὀνείατ’ άγοντα:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.367</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι οὐ πάντως βρώματα τὰ ὀνείατα ὡς οἱ Γλωσσογράφοι ἀλλα πάντα τὰ
+                                ὄνησίν τινα περιποιοῦντα ὡς νῦν τὰ δῶρα. καὶ ὅτι <q>ἄγοντα</q>
+                                εἴρηκεν οὐ <q>φέροντα</q> οὐ γὰρ αὐτὸς <choice>
+                                    <sic>ἐβαστάζεν</sic>
+                                    <corr>ἐβάσταζεν</corr>
+                                </choice> ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="60" type="scholion">
+                        <div type="lemma">
+                            <p>αίσιον οἷος δὴ σὺ δέμας·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.376</p>
+                        </div>
+                        <div type="comment">
+                            <p>οἱ γὰρ εὔμορφοι βασιλικοί τε καὶ θεῶν ἐνομίζοντο παῖδες ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="61" type="scholion">
+                        <div type="lemma">
+                            <p>μακάρων δ' ἔξεσσι·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.377</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἐκγέγονας· ἡ <q>ἐκ μακάρων ἐσσί</q> ἐκ γὰρ τῆς όψεως στοχάζεται ⁑
+                            </p>
+                        </div>
+                    </div>
+                    <div n="62" type="scholion">
+                        <div type="lemma">
+                            <p>ἠέ πῃ ἐκπέμπεις·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.381</p>
+                        </div>
+                        <div type="comment">
+                            <p>βέλτιον ἀφ ετέρας ἀρχῆς τὴν πεῦσιν γίνεσθαι· <q>ἆρα ἐκπέμπεις</q>
+                                ⁑</p>
+                        </div>
+                    </div>
+                    <div n="63" type="scholion">
+                        <div type="lemma">
+                            <p>ὥς μοι καλὰ τὸν οῖτον:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.388</p>
+                        </div>
+                        <div type="comment">
+                            <p>εἰ μὲν θαυμαστικῶς λέγοι τοῦτο ἀπ ἄλλης ἀρχῆς. εἰ δὲ μὴ τοῖς ἄνω
+                                συναπτέον ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="64" type="scholion">
+                        <div type="lemma">
+                            <p>ἀπότμου παιδὸς ἔνισπες·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.388</p>
+                        </div>
+                        <div type="comment">
+                            <p><q>ἔνισπες</q> ὡς <q>ἔδραμες</q> ἔστι γὰρ ὁριστικὸν ἐκ τοῦ
+                                    <q>ήνισπες</q> τὴν ἄρχουσαν <choice>
+                                    <abbr>συστείλαντ</abbr>
+                                    <expan>συστείλαντος</expan>
+                                </choice>· τὸ μέντοι προστακτικὸν προ τέλους ἔχει τὴν ὀξεῖαν <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:3.247</ref>
+                                    <q>σὺ δ’ ἀληθῶς ἐνίσπες</q>
+                                </cit> ὁμοιως τῷ <q>ἐπίσχες</q>. καὶ δῆλον ὅτι ὅπου μὲν τὸ <rs
+                                    type="waw">ϊ</rs> ἐστὶ τῆς <choice>
+                                    <abbr>προθ</abbr>
+                                    <expan>προθέσεως</expan>
+                                </choice> ὅπου δὲ τοῦ <choice>
+                                    <abbr>ῥήματ</abbr>
+                                    <expan>ῥήματος</expan>
+                                </choice>. τὸ μέντοι ἄνευ τοῦ <rs type="waw">ς</rs> προστακτικὸν
+                                προπαροξύνεται· λέγω δὲ τὸ <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:4.642</ref>
+                                    <q><choice>
+                                            <sic>νημερτὲς</sic>
+                                            <corr>νημερτές</corr>
+                                        </choice> μοι ἔνισπε</q>
+                                </cit> ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="65" type="scholion">
+                        <div type="lemma">
+                            <p>τῶν μέτα παλλόμενος·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.400</p>
+                        </div>
+                        <div type="comment">
+                            <p><q>τῶν μετα</q> ἀναστρέφουσι τὴν πρόθεσιν ἔστι γὰρ <q>μετα τῶν</q> ⁑</p>
                         </div>
                     </div>
                     <div n="??" type="scholion">
