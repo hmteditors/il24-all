@@ -1211,7 +1211,57 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.400</p>
                         </div>
                         <div type="comment">
-                            <p><q>τῶν μετα</q> ἀναστρέφουσι τὴν πρόθεσιν ἔστι γὰρ <q>μετα τῶν</q> ⁑</p>
+                            <p><q>τῶν μετα</q> ἀναστρέφουσι τὴν πρόθεσιν ἔστι γὰρ <q>μετα τῶν</q>
+                                ⁑</p>
+                        </div>
+                    </div>
+                    <div n="66" type="scholion">
+                        <div type="lemma">
+                            <p>πάτροκλον τῶν δὲ στοναχὴ, </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.512</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι καταχρηστικῶς τὰς σκηνὰς οὕτως εἶπεν <persName
+                                    n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> δὲ
+                                    <q>στεναχὴ</q> δια τοῦ <rs type="waw">ε</rs> γράφει ἐκπίπτει δὲ
+                                τὰ δια τοῦ <rs type="waw">ε</rs> ῥήματα ἐν τοῖς ὀνόμασιν εἰς τὸ <rs
+                                    type="waw">ὀ</rs>
+                                <q>λέγω</q>
+                                <q>λόγος</q>· <q>μένω</q>
+                                <q>μονή</q>, οὕτως <q>στενάξαι</q>
+                                <q>στοναχή</q> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="67" type="scholion">
+                        <div type="lemma">
+                            <p>καί οι ἀπο πραπίδων· </p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.513-24.514</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀθετεῖται προείρηται γὰρ ϊκανῶς δια τοῦ <q>αὐτὰρ ἐπεί ῥα γόοιο</q>
+                                καὶ ἀκύρως τέθειται τὸ <q>γυίων</q>· οὐ γὰρ οὕτως λέγει πάντα τὰ
+                                μέλη ἀλλὰ μόνον τὰς χείρας καὶ τοὺς πόδας ⁑</p>
+                        </div>
+                    </div>
+                    <div n="68" type="scholion">
+                        <div type="lemma">
+                            <p>ἀλλ άγε δὴ,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.522</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι τὸ ἁπλοῦν ἐστιν <q>έζευ</q> τούτῳ δὲ ἀνάλογον τὸ σύνθετον <q>κατ
+                                    αρ έζευ</q> οὐχὶ <q>ΐζευ</q>· καὶ ὅτι τὸ <q>ἔμπης</q> ἀντι τοῦ
+                                    <q>όμως</q> εσθ’ ότε δὲ ἀντι τοῦ <q>ὁμοίως</q> ἔμπης ἀντι τοῦ
+                                ὁμως εσθ’ ότε δὲ ἀντι τοῦ ομοίως <cit>
+                                    <ref type="urn">urn:cts:greekLit:Tlg0012.tlg002:18.354</ref>
+                                    <q>ἔμπης μοι δοκέει δαΐδων σέλας</q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
                     <div n="??" type="scholion">
