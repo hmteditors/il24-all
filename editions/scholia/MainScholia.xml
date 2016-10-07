@@ -1317,29 +1317,48 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 ἐπιστάμενος λέγει τὴν ἀλήθειαν· λύεται οὖν τὸ ζήτημα προσώπῳ ⁑</p>
                         </div>
                     </div>
-              <!--      <div n="70" type="scholion">
+                    <div n="70" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>δώρων οἷα δίδωσι:</p>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.528</p>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p>ὅτι τὸ <q>ἑάων</q> ἀντι τοῦ <q>ἀγαθῶν</q>· καὶ τὸ <cit>
+                                    <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001:15.138"/>
+                                    <q>υἱος εῆος</q>
+                                </cit>
+                                <q>ἀγαθοῦ</q>, δια δὲ ἄγνοιαν ὁ <persName
+                                    n="urn:cite:hmt:pers.pers15">Ζηνόδοτος</persName> γράφει
+                                    <q>εοῖο</q>. καὶ ὅτι τὸ <q>έτερος</q> ἐπι δύο. ἕως δε τοῦ
+                                    <q>δίδωσι</q> βούλονται στίζειν ἵνα μὴ δύο πίθοι ὦσι κακῶν καὶ
+                                εἰς ἀγαθῶν, ὥσπερ καὶ ὁ <persName n="urn:cite:hmt:pers.pers5"
+                                    >Πίνδαρος</persName> ἐξεδέξατο· φησὶ γοῦν <cit>
+                                    <ref type="urn" n="urn:cts:greekLit:tlg0033.chs23:81-82"/>
+                                    <q>ἐν παρ έσλον πήματα σὺν δύο δαίονται βροτοῖς ἀθάνατοι</q>
+                                </cit>· ἐχρῆν δὲ τὸ ἐπιμεριζόμενον μὴ οὕτως ἐπενεχθῆναι <q>κακῶν
+                                    ἕτερος δὲ εάων</q>. ἀλλ ὁ μεν ἔτερος κακῶν ὁ δὲ ἕτερος ἀγαθῶν
+                                ⁑</p>
                         </div>
                     </div>
                     <div n="71" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἐπεκλώσαντο:</p>
                         </div>
                         <div type="ref">
                             <p/>
                         </div>
                         <div type="comment">
-                            <p> ⁑</p>
+                            <p>
+                                <q>εἰμαρμένον ἐποίησαν</q>
+                                <q>ἐπεμοίρησαν</q> ἀπο μιᾶς Μοίρας είρηται τῆς
+                                    <persName>Κλωθοῦς</persName>· τρεῖς μὲν γὰρ παραδίδονται Μοῖραι·
+                                    <persName>Κλωθώ</persName>· <persName>Λαχεσις</persName>·
+                                    <persName>Ἄτροπος</persName> ⁑</p>
                         </div>
                     </div>
-                    <div n="72" type="scholion">
+                    <!--      <div n="72" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -1361,7 +1380,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p> ⁑</p>
                         </div>
                     </div>
- -->                    <div n="??" type="scholion">
+ -->
+                    <div n="??" type="scholion">
                         <div type="lemma">
                             <p>ὄν τ' ἀργυρότοξος <persName n="urn:cite:hmt:pers.pers40"><choice>
                                         <abbr>Ἀπόλλω</abbr>
