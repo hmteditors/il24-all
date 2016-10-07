@@ -1264,7 +1264,104 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </cit> ⁑</p>
                         </div>
                     </div>
-                    <div n="??" type="scholion">
+                    <div n="69" type="scholion">
+                        <div type="lemma">
+                            <p>δοιοὶ γάρ τε πίθοι</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.527</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι ἐντεῦθεν <persName n="urn:cite:hmt:pers.pers4">Ἡσιόδῳ</persName>
+                                τὸ περι τοῦ πίθου μύθευμα. καὶ ὅτι δύο τοὺς πάντας λέγει πίθους
+                                τινὲς δὲ τῶν νωτέρων ἕνα μὲν τῶν ἀγαθῶν δύο δὲ τῶν κακῶν ἐδέξαντο·
+                                εἰς παραμυθίαν τοῦ <persName n="urn:cite:hmt:pers.pers145"
+                                    >Πριαμου</persName> ὁ <choice>
+                                    <abbr>ποιητ</abbr>
+                                    <expan>ποιητὴς</expan>
+                                </choice> εἰσήγαγε τὸν <persName n="urn:cite:hmt:pers.pers1"><choice>
+                                        <abbr>Αχι</abbr>
+                                        <expan>Ἀχιλλέα</expan>
+                                    </choice></persName> λέγοντα ταυτα ἐπει δὴ μόνων ἀγαθῶν
+                                δωρητικοὺς ἐπίσταται <persName n="urn:cite:hmt:pers.pers17"><choice>
+                                        <abbr>Ὅμρ</abbr>
+                                        <expan>Ὅμηρος</expan>
+                                    </choice></persName> τοὺς θεοὺς λέγων <cit>
+                                    <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002:8.325"/>
+                                    <q>θεοὶ δοτῆρες ἐάων</q>
+                                </cit> ἴ̈διον γὰρ θεῶν δῶρον τὸ αγαθόν· ζητοῦσι δὲ τινὲς ἀπο τούτων
+                                τῶν επῶν πῶς <choice>
+                                    <abbr>ἐνταυθ</abbr>
+                                    <expan>ἐνταυθα</expan>
+                                </choice> μὲν ὁ ποιητής φησὶν ἐπισπᾶσθαι τὰ κακὰ <choice>
+                                    <sic>τοῦς</sic>
+                                    <expan>τοὺς</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>ἄνους</abbr>
+                                    <expan>ἀνθρώπους</expan>
+                                </choice>
+                                <cit>
+                                    <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002:1.33-1.34"/>
+                                    <q>οἱ δὲ καὶ <choice>
+                                            <sic>αὐτοί</sic>
+                                            <corr>αὐτοὶ</corr>
+                                        </choice> σφησὶν ἀτασθαλίῃσιν ὑπερ μόρον ἄληε ἔχουσιν</q>
+                                </cit>· ῥητέον οὖν ὅτι ἐνταυθα <persName n="urn:cite:hmt:pers.pers1"><choice>
+                                        <sic>Ἀχιλλεὺς</sic>
+                                        <corr>Ἀχιλλεύς</corr>
+                                    </choice></persName> ἐστιν ὁ λεγών ἔκ θεῶν εῖναι τὰ κακὰ ἀγνοῶν
+                                τὴν ἀλήθειαν ἐν δε τῇ <title><ref type="urn"
+                                        n="urn:cts:greekLit:tlg0012.tlg002">Ὀδυσσείᾳ</ref></title>
+                                <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName> ὡς σαφῶς
+                                ἐπιστάμενος λέγει τὴν ἀλήθειαν· λύεται οὖν τὸ ζήτημα προσώπῳ ⁑</p>
+                        </div>
+                    </div>
+              <!--      <div n="70" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="71" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="72" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="73" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p/>
+                        </div>
+                        <div type="comment">
+                            <p> ⁑</p>
+                        </div>
+                    </div>
+ -->                    <div n="??" type="scholion">
                         <div type="lemma">
                             <p>ὄν τ' ἀργυρότοξος <persName n="urn:cite:hmt:pers.pers40"><choice>
                                         <abbr>Ἀπόλλω</abbr>
