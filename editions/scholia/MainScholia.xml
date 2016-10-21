@@ -1462,7 +1462,79 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </cit> ⁑</p>
                         </div>
                     </div>
-                 <!--   <div n="79" type="scholion">
+                    <div n="79" type="scholion">
+                        <div type="lemma">
+                            <p>πρὶν κακὸν ἄλλο πάθῃσθα·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.551</p>
+                        </div>
+                        <div type="comment">
+                            <p>πρὶν ἠ ἄλλο γένηταί σοι κακόν οἶον πολλὰ μὲν κακὰ πάθοις ἀναστήσεις
+                                δὲ αὐτὸν οὐδαμῶς τοῦτο γὰρ ἀδύνατον ⁑</p>
+                        </div>
+                    </div>
+                    <div n="80" type="scholion">
+                        <div type="lemma">
+                            <p>‡ πολλά, τά τοι φέρομεν:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.556</p>
+                        </div>
+                        <div type="comment">
+                            <p> ἀθετοῦνται ὅτι ἀνάρμοστοι τῷ προσώπῳ αἱ εὐχαὶ καὶ ἐπαυτοφῶρος ἡ
+                                ὑπόκρισις⁑</p>
+                        </div>
+                    </div>
+                    <div n="82" type="scholion">
+                        <div type="lemma">
+                            <p>ἐπεί με πρῶτον ἔασας:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.554-24.560</p>
+                        </div>
+                        <div type="comment">
+                            <p>δασύνει <persName n="urn:cite:hmt:pers.pers175">Δίδυμος</persName> τὸ
+                                    <q>εάσας</q> ἐν πρώτῳ διορθωτικον ὁμοίως καὶ <persName
+                                    n="urn:cite:hmt:pers.pers534">Ἑρμαππίας</persName>
+                                μεταλαμβάνοντες εἰς τὸ ήδυνας ὁ δὲ <persName
+                                    n="urn:cite:hmt:pers.pers323">Σιδώνιος</persName> γράφει <q>ἐπεί
+                                    με πρῶτ' ἐλέησας</q>· <persName n="urn:cite:hmt:pers.pers16"
+                                    >Ἀρίσταρχος</persName> δὲ οὐδὲν ἀποφαίνεται ἢ μόνον ἀθετεῖ τοὺς
+                                στίχους. δύναται δὲ καὶ το ψιλούμενον ώς φησὶ <persName
+                                    n="urn:cite:hmt:pers.pers501">Τρύφων</persName> καὶ συμφωνεῖ εἰ
+                                μὴ πλῆρες ἐστι κατὰ τὴν φράσιν ἔχειν ἀφορμὴν ὡς ἔτι φθεγγομένου ἔτι
+                                καὶ λαλοῦντος τοῦ <persName n="cite:urn:hmt:pers.pers145"
+                                    >Πριάμου</persName> τὸν <persName n="urn:cite:hmt:pers.pers1"
+                                    >Ἀχιλλέα</persName> ἀνθυπα/<w><add place="supralinear"
+                                    >ν</add></w>/τῆσαι ὑπο οργῆς κεκινημένον καὶ μοεσολαβῆσαι τὴν
+                                διάλεξιν, <q>ἀλλα τάχιστα λῦσον ἵν ὀφθαλμοῖ̂σιν ΐδω· σὺ δὲ δέξαι
+                                    ἄποινα πολλά τά τοι φέρομαι· σὺ δὲ τῶνδ' <choice>
+                                        <sic>ἀπάναιο</sic>
+                                        <corr>ἀπόναιο</corr>
+                                    </choice> καὶ έλθοις</q> σὴν ἐς πατρίδα γαῖαν ἐπεί με πρῶτον
+                                έασας <q>τὸν δ ὰρ ὑπόδρα ϊδὼν μηκέτι νῦν μ' ἐρέθιζε γέρον</q>· τὸ δὲ
+                                ἐντελὲς τοῦ λόγου τοιοῦτον τι έσται <q>εἴασας εἰς λόγους σοι
+                                    εἴκειν</q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="83" type="scholion">
+                        <div type="lemma">
+                            <p>ἐπεί με πρῶτον έασας.</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.557</p>
+                        </div>
+                        <div type="comment">
+                            <p> ἀντι τοῦ <q>ἥδυνας ηὔφρανας</q>· ὅπερ ἀγνοήσαντες τινὲς ἔγραψαν
+                                    <q>ἐπεί μ’ πρῶτ' ἐλέησας</q> κέχρηται δὲ καὶ ἐν <title><ref
+                                        type="urn" n="urn:cts:greekLit:tlg0012.tlg002"
+                                        >Ὀδυσσείᾳ</ref></title>
+                                <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:9.353-9.354</ref><q>ήσατο δ' αἰνῶς ἡδὺ ποτὸν πίνων</q>
+                                </cit>⁑</p>
+                        </div>
+                    </div>
+                    <!--   <div n="81" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
