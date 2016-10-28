@@ -1646,6 +1646,96 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 δώρων ἠλλάξατο ⁑</p>
                         </div>
                     </div>
+                    <div n="91" type="scholion">
+                        <div type="lemma">
+                            <p>καὶ γάρ τ’ ἡΰκομος <persName n="urn:cite:hmt:pers.pers816"
+                                    >Νιόβη</persName>·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.602</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers816">Νιόβη</persName> θυγάτηρ μὲν
+                                ἢν <persName n="urn:cite:hmt:pers.pers46">Ταντάλου</persName> γυνὴ
+                                δὲ <persName n="urn:cite:hmt:pers.pers197">Ἀμφίωνος</persName>
+                                γαμηθεῖσα δὲ τῷ <persName n="urn:cite:hmt:pers.pers197"
+                                    >Ἀμφίωνι</persName> παῖδας ἔσχεν δέκα δύο, ἐπαρθεῖσα δὲ τῷ
+                                πλήθει τῶν παίδων καὶ τῇ καλλονῇ ὠνείδιζεν τῇ <persName
+                                    n="urn:cite:hmt:pers.pers35">Λητοῖ</persName> ὅτι δύο μόνους
+                                ἐγέννησεν <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλωνα</persName>
+                                καὶ <persName n="urn:cite:hmt:pers.pers39">Ἄρτεμιν</persName>· καὶ
+                                ὅτι ἐυτεκνωτέρα ἀυτῆς ἐστιν· ἀγανακτήσασα δὲ ἡ θεὸς ἔπεμψεν ἰοὺς
+                                τοῖς παισὶν ἀυτῆς· καὶ <persName n="urn:cite:hmt:pers.pers40"
+                                    >Ἀπόλλων</persName> μὲν τοὺς ἄρρενας ἀναιρεῖ κυνηγετοῦντας ἐν τῷ
+                                κιθερῶνι. <persName n="urn:cite:hmt:pers.pers39">Ἄρτεμις</persName>
+                                δὲ τὰς θηλείας ἐπ οἴκου οὔσας. θρηνοῦσαν οὖν τὴν <persName
+                                    n="urn:cite:hmt:pers.pers816">Νιόβην</persName> τὸ τοιοῦτο
+                                δυστύχημα· <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName>
+                                ἐλεήσας εἰς λίθον μετέβαλεν. ὡς καὶ μέχρι νῦν ἐν <placeName
+                                    n="urn:cite:hmt:place.place444">Σιπύλῳ</placeName> τῆς
+                                    <placeName n="urn:cite:hmt:place.place231">Φρυγίας</placeName>
+                                ὁρᾶται παρα πάντῳ πηγὰς δακρύων προϊεμένη· ἡ ϊστορία παρα <persName
+                                    n="urn:cite:hmt:pers.pers354">Εὐφορίωνι</persName> ⁑</p>
+                        </div>
+                    </div>
+                    <div n="92" type="scholion">
+                        <div type="lemma">
+                            <p>ἓξ μὲν θυγατέρες,</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.604</p>
+                        </div>
+                        <div type="comment">
+                            <p> ὅτι οἱ νεώτεροι διαφωνοῦσι περι τοῦ ἀριθμοῦ τῶν <persName
+                                    n="urn:cite:hmt:pers.pers816">Νιόβης</persName> παίδων· οἱ μὲν
+                                γὰρ δεκατέσσαρας· οἱ δὲ εἴκοσι τοὺς Νιοβίδας λέγουσιν ⁑</p>
+                        </div>
+                    </div>
+                    <div n="??" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.605</p>
+                        </div>
+                        <div type="comment">
+                            <p/>
+                        </div>
+                    </div>
+                    <div n="??" type="scholion">
+                        <div type="lemma">
+                            <p>ὑπνῳ ὑπο γλυκερῷ <choice>
+                                    <abbr>ταρπώμεθ</abbr>
+                                    <expan>ταρπώμεθα</expan>
+                                </choice></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.636</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
+                                <q>παυσώμεθα</q>, <q>ἀναπαυσώμεθα</q> δηλοῦν· οὐ γὰρ εὔκερον τὸ
+                                    <q>ταρπώμεθα</q>· εἰ επεὶ μετα δώδεκα ἡμέρας ἁΰπνους τέρψιν αὐτῷ
+                                μέλλει ἐπαγαγεῖν ἡ νύξ</p>
+                        </div>
+                    </div>
+                    <div type="comment">
+                        <p>ὑφ ἕν περισπωμένης οὔσης πρὸ τέλους ὡς καὶ ἐν τῷ <cit>
+                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.81</ref>
+                            <q>αὐτῆμαρ</q>
+                        </cit> καὶ <cit>
+                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:1.53</ref>
+                            <q>ἐννῆμαρ</q>
+                        </cit>
+                            <cit>
+                                <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:10.80</ref>
+                                <q>ἑξῆμαρ</q>
+                            </cit> προείρηται δὲ ἤδη περι τῆς λέξεως, ἀλλα καὶ <choice>
+                                <sic>ἐξήτητο</sic>
+                                <corr>ἐζήτητο</corr>
+                            </choice> ἐν ταῖς <title>Προτάσσεσι</title> (fr. 2, hrd. 2, 907, 6 l.). παραιτητέον
+                            οὖν τοὺς κατα διάλυσιν ἀναγινώσκοντας</p>
+                    </div>
                     <div n="??" type="scholion">
                         <div type="lemma">
                             <p/>
@@ -1655,6 +1745,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p/>
+                        </div>
+                    </div>
+                    <div n="??" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.657</p>
                         </div>
                     </div>
                     <div n="??" type="scholion">
