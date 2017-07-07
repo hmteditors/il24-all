@@ -1,5 +1,15 @@
 # Book 24
 
+# Summary:
+
+##Folios that need work
+
+310v, 311r, 312r, 313r, 313v, 317r, 317v, 318r, 318v, 321r, 321v, 322r, 322v, 323r, 323v, 324r, 324v, 325r, 325v
+
+Most work is indexing, there are some minor edits that need to be completed. 
+
+# Detail:
+
 ## 310v
 1. Main scholia: all good
 2. Intermarginal Scholia: all good
