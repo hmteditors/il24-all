@@ -42,25 +42,24 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice> ἐστιν ἀπο τῶν εἰς <rs type="waw">μι</rs> ὥσπερ ἤδη
                                 ἐπίσταται λέγων· <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:21.80</ref>
-                                    <q>νύν δὲ λύμην τρίς τόσσα <sic>πόρον</sic></q>
+                                    <q>νύν δὲ λύμην τρίς τόσσα πόρον</q>
                                 </cit>· καὶ <q>τῆς δ` ἄρα κλαιούσης λῦτο γούνατα</q> ἔκτασις ἐγένετο
                                 δια τὸ μέτρον· εἰ δέ παρατατικόν τινες ἐκδεχονται δύναται κρᾶσις τοῦ
-                                    <rs type="waw">ἐλύετο</rs> γεγενῆσθαι ὥσπερ επι τοῦ <rs
-                                    type="waw">ἰχθύες</rs>
-                                <rs type="waw">ἰχθῦς</rs>
-                                <rs type="waw">μῦες</rs>
-                                <rs type="waw">μῦς</rs>
-                                <rs type="waw">ῥύεσθαι</rs>
-                                <rs type="waw">ῥύσθαι</rs>
+                                    <q>ἐλύετο</q> γεγενῆσθαι ὥσπερ επι τοῦ <q>ἰχθύες</q>
+                                <q>ἰχθῦς</q>
+                                <q>μῦες</q>
+                                <q>μῦς</q>
+                                <q>ῥύεσθαι</q>
+                                <q>ῥύσθαι</q>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012:tlg001:15.141</ref>
                                     <q>πάντῶν <choice>
                                             <abbr>ανων</abbr>
                                             <expan>ἀθρώπων</expan>
                                         </choice>ῥῦσθαι γενεήν τε τόκον τε· </q>
-                                </cit> ἠ ἀπο τοῦ <rs type="waw">λέλυτο</rs>
-                                <rs type="waw">λῦτο</rs> ὡς <rs type="waw">βέβλητο</rs>
-                                <rs type="waw">βλῆτο</rs> ⁑ </p>
+                                </cit> ἠ ἀπο τοῦ <q>λέλυτο</q>
+                                <q>λῦτο</q> ὡς <q>βέβλητο</q>
+                                <q>βλῆτο</q> ⁑ </p>
                         </div>
                     </div>
 
@@ -78,7 +77,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                     <abbr>στιχ</abbr>
                                     <expan>στίχοι</expan>
                                 </choice>
-                                <num value="4">δ</num>ὅτι εὐτελής ἔισι ἀρθεντων δὲ αὐτων καὶ
+                                <num value="4">δ</num> ὅτι εὐτελής ἔισι ἀρθεντων δὲ αὐτων καὶ
                                 ἐμφαντικώτερον <choice>
                                     <abbr>δηλουτ</abbr>
                                     <expan>δηλοῦται</expan>
@@ -758,17 +757,48 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                                 </choice>.⁑</p>
                         </div>
                     </div>
-
-                    <!-- 313v -->
-                    <div n="X" type="scholion">
+                    <div n="X8" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>οὐτ' εὐνῆς· <choice><sic>ἀγαθόν</sic><corr>ἀγαθὸν</corr></choice> δὲ</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.130</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p>ἀθετοῦνται <choice><abbr>στιχ</abbr><expan>στίχοι</expan></choice> <rs type="waw">γ</rs> ὅτι ἀπρεπὲς <choice><abbr>μρα</abbr><expan>μητέρα</expan></choice> υἱῷ λέγειν· ἀγαθόν ἐστι γυναικὶ μίσγεσθαι ἔτι δὲ καὶ ἁπάντων ἀσυμφορώτατόν ἐστι καὶ μάλιστα τοῖς εἰς πόλεμον ἐξιοῦσι χρεία γὰρ εὐτονίας καὶ <choice><abbr>πνς</abbr><expan>πνεύματος</expan></choice> καὶ τὸ λέγειν ὅτι ἀθανατός σου ἐγγυς ἐστιν ἄκαιρον· διεσκεύακε δέ τις αὐτούς, οἰηθεὶς ἀποκρέμασθαι. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:24.129</ref><q>οὐδέ τι σίτου</q></cit>· πλῆρες <choice><sic>δὲ</sic><corr>δέ</corr></choice> ἐστι· σὴν έδεαι κραδίην οὐδε τὸ τυχὸν σίτου μεμνημένος⁑</p>
+                        </div>
+                    </div>
+                    <div n="X9" type="scholion">
+                        <div type="lemma">
+                            <p>σκυζεσθαί σοι φησὶ θεοὺς</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.134</p>
+                        </div>
+                        <div type="comment">
+                            <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> εῖπεν ἀντι τοῦ <q>ἑαυτόν</q> <q>ἑὲ</q>. ἡ διπλῆ, <persName n="urn:cite2:hmt:pers:pers309">Καλλίστρατος</persName> οὖν καὶ <choice><abbr>Ἀρίσταρχ</abbr><expan>Ἀρίσταρχος</expan></choice> δασύνουσι τὸ πρῶτον <rs type="waw">ε</rs> τῆς ἀντωνυμίας τῷ δε τόνῳ ὡς <q>ἐμέ</q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="X10" type="scholion">
+                        <div type="lemma">
+                            <p>ἄγγειλον Πριάμῳ</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.145</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τοπικῶς ἀντι τῆς προθέσεως θέλει γὰρ εἰπεῖν εἰς <placeName n="urn:cite:hmt:place.place6">Ἴλιον</placeName>⁑</p>
+                        </div>
+                    </div>
+                    <div n="X11" type="scholion">
+                        <div type="lemma">
+                            <p>νεκρὸν ἄγοι προτι άστυ:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.151</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι <choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> εἴρηκε <q>νεκρὸν ὃν ἔκτανε</q> ἀντι τοῦ ὃν κτείνας νεκρὸν ἐποίησεν ὡς ἐπι τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:5.795</ref><q>ἕλκος ἀναψύχοντα τό μιν βάλε <persName n="urn:cite2:hmt:pers:pers309">Πάνδαρος</persName> ἰῷ</q></cit>⁑</p>
                         </div>
                     </div>
                     <!-- 314r -->
