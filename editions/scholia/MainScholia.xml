@@ -280,21 +280,96 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
                     <div n="A10" type="scholion">
                         <div type="lemma">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.</p>
+                            <p>καὶ τεθνηοτά περ περι δ' αιγιδι·</p>
                         </div>
                         <div type="ref">
-                            <p/>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.20</p>
                         </div>
                         <div type="comment">
-                            <p>⁑</p>
+                            <p>οὕτως <q>αἰγίδα χρυσείην</q> αἱ <persName
+                                    n="urn:cite2:hmt:pers:pers16"><choice>
+                                        <abbr>Ἀρισταρχ</abbr>
+                                        <expan>Ἀριστάρχου</expan>
+                                    </choice></persName>· περὶ ὅλον αυτὸν ἐκάλυπτε τὴν χρυσῆν <choice>
+                                    <abbr>αἰγιδ</abbr>
+                                    <expan>αἰγιδα</expan>
+                                </choice> καὶ μήποτε Ὁμηρικώτερον <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:14.343</ref>
+                                    <q>τοῖόν τοι ἐγὼ νέφος ἀμφικαλύψω χρύσεον</q>
+                                </cit>⁑</p>
                         </div>
                     </div>
                     <div n="A11" type="scholion">
                         <div type="lemma">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.</p>
+                            <p>κλέψαι δ' ὀτρύνεσκον:</p>
                         </div>
                         <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.24</p>
+                        </div>
+                        <div type="comment">
+                            <p><persName n="urn:cite2:hmt:pers:pers8">Ζεὺς</persName> ἐρασθεὶς
+                                    <persName n="urn:cite2:hmt:pers:pers461">Μαίας</persName> τῆς
+                                Ἀτλάντιδος λαθῶν <persName n="urn:cite2:hmt:pers:pers116"
+                                    >Ήραν</persName> ἐμίγη· ἡ δὲ εγγυος γενομένη ἐν <placeName
+                                    n="urn:cite2:hmt:place:place234">Κυλλήνῃ</placeName> τῆς
+                                    <placeName n="urn:cite2:hmt:place:place10">Ἁρκαδίας</placeName>
+                                <persName n="urn:cite2:hmt:pers:pers104">Ἑρμῆν</persName> ἐγέννησεν
+                                ὅστις ἐπιθυμίαν ἔσχεν τοῦ κλέπτειν ὅτι καὶ <persName
+                                    n="urn:cite2:hmt:pers:pers8">Ζεὺς</persName> κλέψας τὴν
+                                    <persName n="urn:cite2:hmt:pers:pers116">Ήραν</persName> ἐμίγη
+                                    <persName n="urn:cite2:hmt:pers:pers461">Μαῖα</persName> καὶ δή
+                                ποτε τῆς <choice>
+                                    <abbr>μρς</abbr>
+                                    <expan>μητρὸς</expan>
+                                </choice> μετα τῶν αδελφῶν αυτῆς λουομένης· λαθὼν ὑφείλετο τὰς
+                                ἐσθῆτας· γυμναὶ δὲ εκείναι ἡπόρουν τί πράξωσιν γέλωτα δὲ δια <choice>
+                                    <abbr>τουτ</abbr>
+                                    <expan>τούτου</expan>
+                                </choice>
+                                <persName n="urn:cite2:hmt:pers:pers104">Ἑρμῆς</persName> ποιήσας
+                                ἀπέδωκεν αὐταῖς τὰς ἐσθῆτας ἔκλεψε δὲ καὶ τὰς <persName
+                                    n="urn:cite2:hmt:pers:pers40">Ἀπολλωνος</persName> βοῦς· ἡ
+                                ϊστορία παρὰ <persName n="urn:cite2:hmt:pers:pers553"
+                                    >Ερατοσθένει</persName>⁑</p>
+                        </div>
+                    </div>
+                    <div n="A12" type="scholion">
+                        <div type="lemma">
+                            <p>ἐνθ' ἄλλοις μὲν ἕως τοῦ τὴν δ' ᾑνισ' ἥ οἱ πόρε μαχλοσύνην·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.25-24.30</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀθετοῦνται στίχοι <num value="6">εξ</num> γελοῖον γὰρ τὸ οὐδέ ποθ'
+                                    <persName n="urn:cite2:hmt:pers:pers116">Ἥρῃ</persName> οὐδε
+                                    <persName n="urn:cite2:hmt:pers:pers47">Ποσειδάωνι</persName>
+                                οὐδε γλαυκώπιδι κούρῃ (25-6) τινὲς μὲν γὰρ ἔτι ἐλείποντο τῶν τριῶν
+                                σεμνότεροι μετα τὸν <persName n="urn:cite2:hmt:pers:pers8"
+                                    >Δία</persName> τῶν μη συνευδοκούντων· τήν τε περὶ του κάλλους
+                                κρίσιν οὐκ οῖδεν πολλαχῇ γὰρ ἂν εμνήσθη καὶ τὸ νείκεσσε (29) οὐκ
+                                έστι κρῖναι ἀλλ' επιπλῆξαι. ἠ διαφέρεσθαι <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:24.249</ref>
+                                    <q>νεικείων <persName n="urn:cite2:hmt:pers:pers507"
+                                            >Ἔλενον</persName> τε <persName
+                                            n="urn:cite2:hmt:pers:pers129">Πάριν</persName></q>
+                                </cit> ἀντι τοῦ ἐπιπλήσσων· <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:18.498</ref>
+                                    <q>δύο δ' ἄνδρες ἐνείκεον εἵνεκα ποινῆς</q>
+                                </cit> διεφέροντο. καὶ ἡ μαχλοσύνη (cf. 30) κοινῶς ἐστι γυναικὸς
+                                μανία δέδωκ' δ' αὐτῷ οὐ ταύτην αλλα την καλλιστην τῶν τότε <persName
+                                    n="urn:cite2:hmt:pers:pers94">Ἑλενην</persName>
+                                <persName n="urn:cite2:hmt:pers:pers4">Ἡσιόδιος</persName> δ' ἐστὶν
+                                ἡ λέξις ἐκεῖνος γὰρ πρῶτος ἐχρήσατο ἐπι τῶν <persName
+                                    n="urn:cite2:hmt:pers:pers721">Προίτου</persName> θυγατέρων⁑</p>
+                        </div>
+                    </div>
+                    <div n="A" type="scholion">
+                        <div type="lemma">
                             <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.</p>
                         </div>
                         <div type="comment">
                             <p>⁑</p>
