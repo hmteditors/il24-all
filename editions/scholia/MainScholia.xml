@@ -64,7 +64,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
 
 
-                    <!-- 311r - 8 scholia unedited from this folio -->
+                    <!-- 311r -->
                     <div n="A2" type="scholion">
                         <div type="lemma">
                             <p>πατρόκλου ποθέων:</p>
@@ -2789,7 +2789,73 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                     </div>
 
                     <!-- 323r -->
-                    <div n="" type="scholion">
+                    <div n="_" type="scholion">
+                        <div type="lemma">
+                            <p>‡ τοὺς μὲν Ἀπόλλων πέφνεν:</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.605</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι προς τὸ δεύτερον πρότερον ἀπήντηκεν⁑</p>
+                        </div>
+                    </div>
+                    <div n="_" type="scholion">
+                        <div type="lemma">
+                            <p>λαοὺς δὲ λίθους ποίησε Κρονίων·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.611</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀντι τοῦ λιθίνους τὰς ψυχὰς καὶ ἀσυμπαθεῖς ἐποίησε προς τὸ μὴ
+                                θάψαι⁑</p>
+                        </div>
+                    </div>
+                    <div n="_" type="scholion">
+                        <div type="lemma">
+                            <p>ἣ δ' άρα σίτου μνήσατο</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.613</p>
+                        </div>
+                        <div type="comment">
+                            <p>προς τὴν διαφωνίαν τῶν νεωτέρων. φασὶ γὰρ καὶ αὐτὴν ἀπολελιθῶσθαι·
+                                Ὅμηρος δὲ οὔ⁑</p>
+                        </div>
+                    </div>
+                    <div n="_" type="scholion">
+                        <div type="lemma">
+                            <p>νῦν δ' έ/\κ/\ που ἐν πέτρῃσιν·</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.613-24.617</p>
+                        </div>
+                        <div type="comment">
+                            <p>ἀθετοῦνται στίχοι τέσσαρες ὅτι οὐκ ἀκλουθεῖ, τὸ „ἠ δ' άρα σίτου
+                                μνήσατ’. “ (Ω 613) εἰ γὰρ ἀπελιθώθη, πῶς σιτία προηνέγκατο· καὶ ἡ
+                                παραμυθία γελοῖα· φάγε, ἐπεὶ καὶ ἡ Νιόβη ἔφαγε καὶ ἀπελιθώθη· ἔστι
+                                δὲ καὶ Ησιόδῳ/\Ησιόδια τῷ χαρακτῆρι καὶ μᾶλλον γε τὸ ἀμφ' Ἀχελώϊον
+                                ἐρρώσαντο (616) καὶ τρὶς κατα τὸ συνεχὲς τὸ ἓν/\ἕν (614. 615), ὡς δὲ
+                                καὶ λίθος γενομένη θεῶν ἐκ κήδεα πέσσει (617).
+                                προηθετοῦνται/\προηθετοῦντο δὲ καὶ παρα Ἀριστοφα⁑</p>
+                        </div>
+                    </div>
+                    <div n="_" type="scholion">
+                        <div type="lemma">
+                            <p>αἵ τ' ἀμφ' Ἀχελώϊον ἐρρώσαντο⁑</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.616</p>
+                        </div>
+                        <div type="comment">
+                            <p>αἵτινες περι τὸ ὕδωρ χορεύουσιν, ἤτοι ἀπο τοῦ Ἀχελῴου ποταμοῦ τοῦ ἐν
+                                Αἰτωλίᾳ ὃς ὡνόμασται ἀπο τοῦ ἄχη λύειν, ἢ ὅτι Ἀχελῷος κοινῶς
+                                καλεῖται πᾶν ὕδωρ· ἠ δια τοῦ /\η/\ „Ἀχελήϊον“ Ἀχελὴς γὰρ ποταμὸς ἀπο
+                                Σιπύλου ῥέει εἰς τὴν Σμυρναίων γῆν⁑</p>
+                        </div>
+                    </div>
+                    <div n="_" type="scholion">
                         <div type="lemma">
                             <p/>
                         </div>
@@ -2800,7 +2866,28 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>⁑</p>
                         </div>
                     </div>
-
+                    <div n="_" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
+                    <div n="_" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.</p>
+                        </div>
+                        <div type="comment">
+                            <p>⁑</p>
+                        </div>
+                    </div>
 
                     <!-- 323v -->
 
