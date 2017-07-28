@@ -1255,7 +1255,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         </div>
                         <div type="comment">
                             <p>ὅτι ἐνταῦθα καλῶς κεῖται επι δε <persName n="urn:cite:hmt:pers.pers1"><choice>
-                                        <abbr>Αχιων</abbr>
+                                        <abbr>Αχι</abbr>
                                         <expan>Ἀχιλλέως</expan>
                                     </choice></persName> ἐν τῇ <ref type="urn"
                                     >urn:cts:greekLit:tlg0012:tlg001:20</ref>
