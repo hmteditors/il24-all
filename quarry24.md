@@ -8,6 +8,78 @@ Most work is indexing, there are some minor edits that need to be completed.
 
 ## Detail
 
+## Need indexing only
+
+### 317r
+
+1. Main scholia: index last 2 
+2. Intermarginal Scholia: all good
+3. Interior Scholia: all good
+4. Exterior Scholia: all good
+5. Interlinear Scholia: all good
+6. Main text: all good
+
+
+## 317v
+1. Main scholia: index all 8 
+2. Intermarginal Scholia: all good
+3. Interior Scholia: all good
+4. Exterior Scholia: all good
+5. Interlinear Scholia: all good
+6. Main text: all good
+
+## 318r
+1. Main scholia: index all 3
+2. Intermarginal Scholia: all good
+3. Interior Scholia: all good
+4. Exterior Scholia: all good
+5. Interlinear Scholia: all good
+6. Main text: all good
+
+## 318v
+1. Main scholia: index all 4 
+2. Intermarginal Scholia: all good
+3. Interior Scholia: all good
+4. Exterior Scholia: all good
+5. Interlinear Scholia: all good
+6. Main text: all good
+
+
+
+### 321r
+1. Main scholia: index all 6
+2. Intermarginal Scholia: all good
+3. Interior Scholia: all good
+4. Exterior Scholia: all good
+5. Interlinear Scholia: all good
+6. Main text: all good
+
+### 321v
+1. Main scholia: index all 8
+2. Intermarginal Scholia: all good
+3. Interior Scholia: all good 
+4. Exterior Scholia: all good
+5. Interlinear Scholia: all good
+6. Main text: all good
+
+### 322r
+1. Main scholia: index all 8
+2. Intermarginal Scholia: all good
+3. Interior Scholia: all good
+4. Exterior Scholia: all good
+5. Interlinear Scholia: all good
+6. Main text: all good
+
+### 322v
+1. Main scholia: index all 4
+2. Intermarginal Scholia: all good
+3. Interior Scholia: all good
+4. Exterior Scholia: all good
+5. Interlinear Scholia: all good
+6. Main text: all good
+
+## Still need editing
+
 
 
 ## 311r
@@ -37,71 +109,8 @@ Most work is indexing, there are some minor edits that need to be completed.
 ll good
 6. Main text: all good
 
-## 317r
-1. Main scholia: index last 2 
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 317v
-1. Main scholia: index all 8 
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 318r
-1. Main scholia: index all 3
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 318v
-1. Main scholia: index all 4 
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
 
 
-
-## 321r
-1. Main scholia: index all 6
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 321v
-1. Main scholia: index all 8
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good 
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 322r
-1. Main scholia: index all 8
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 322v
-1. Main scholia: index all 4
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
 
 ## 323r
 1. Main scholia: index and edit all
