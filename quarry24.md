@@ -78,6 +78,33 @@ Most work is indexing, there are some minor edits that need to be completed.
 5. Interlinear Scholia: all good
 6. Main text: all good
 
+
+## 323v
+1. Main scholia: index the 1 scholion that is on the page
+2. Intermarginal Scholia: all good
+3. Interior Scholia: all good
+4. Exterior Scholia: all good
+5. Interlinear Scholia: all good
+6. Main text: all good
+
+## 324r
+1. Main scholia: index all 6
+2. Intermarginal Scholia: all good
+3. Interior Scholia: all good
+4. Exterior Scholia: all good
+5. Interlinear Scholia: all good
+6. Main text: all good
+
+## 324v
+1. Main scholia: index the 1 scholion that is on the page
+2. Intermarginal Scholia: all good
+3. Interior Scholia: all good
+4. Exterior Scholia: all good
+5. Interlinear Scholia: all good
+6. Main text: all good
+
+
+
 ## Still need editing
 
 
@@ -120,29 +147,6 @@ ll good
 5. Interlinear Scholia: all good
 6. Main text: all good
 
-## 323v
-1. Main scholia: index the 1 scholion that is on the page
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 324r
-1. Main scholia: index all 6
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 324v
-1. Main scholia: index the 1 scholion that is on the page
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
 
 ## 325r
 1. Main scholia: index and edit all
