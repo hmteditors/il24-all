@@ -153,18 +153,3 @@ ll good
 5. Interlinear Scholia: all good
 6. Main text: all good
 
-## 326r
-1. Main scholia: all good
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 326v
-1. Main scholia: all good
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
