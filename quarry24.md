@@ -4,19 +4,12 @@
 
 ##Folios that need work
 
-310v, 311r, 312r, 313r, 313v, 317r, 317v, 318r, 318v, 321r, 321v, 322r, 322v, 323r, 323v, 324r, 324v, 325r, 325v
+311r, 312r, 313r, 313v, 317r, 317v, 318r, 318v, 321r, 321v, 322r, 322v, 323r, 323v, 324r, 324v, 325r, 325v
 
 Most work is indexing, there are some minor edits that need to be completed. 
 
 # Detail:
 
-## 310v
-1. Main scholia: all good
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: 1 unedited
-5. Interlinear Scholia: all good
-6. Main Text: all good
 
 
 ## 311r
@@ -27,13 +20,7 @@ Most work is indexing, there are some minor edits that need to be completed.
 5. Interlinear Scholia: 5 unedited 
 6. Main Text: all good
 
-## 311v
-1. Main scholia: all good
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main Text: all good
+
 
 ## 312r
 1. Main scholia: all good
@@ -43,64 +30,13 @@ Most work is indexing, there are some minor edits that need to be completed.
 5. Interlinear Scholia: review the one because its written in the interlinear hand not the main hand and so I think we want don't want to orig/reg it but make it a scholion instead (check what we did in the main text for that line - οιο on the next to last line)
 6. Main Text: all good
 
-## 312v
-1. Main scholia: all good
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main Text: all good
+
 
 ## 313r - completely unedited
 
 ## 313v - completely unedited
 
-## 314r
-1. Main scholia: all good
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 314v
-1. Main scholia: all good
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 315r
-1. Main scholia: all good
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 315v
-1. Main scholia: all good
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 316r
-1. Main scholia: all good
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
-6. Main text: all good
-
-## 316v
-1. Main scholia: all good
-2. Intermarginal Scholia: all good
-3. Interior Scholia: all good
-4. Exterior Scholia: all good
-5. Interlinear Scholia: all good
+ll good
 6. Main text: all good
 
 ## 317r
@@ -135,17 +71,7 @@ Most work is indexing, there are some minor edits that need to be completed.
 5. Interlinear Scholia: all good
 6. Main text: all good
 
-## 319r - replacement folio
-1. Main text: all good
 
-## 319v - replacement folio
-1. Main text: all good
-
-## 320r - replacement folio
-1. Main text: all good
-
-## 320v - replacement folio
-1. Main text: all good
 
 ## 321r
 1. Main scholia: index all 6
